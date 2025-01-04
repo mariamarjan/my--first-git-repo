@@ -2,4 +2,9 @@
 .blog1{
     background-color: brown;
     padding: 10px;
+    margin:20px ;
+}
+.blog2{
+ background-color: aqua;
+ padding: 15px;
 }
